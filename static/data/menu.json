@@ -1,0 +1,38 @@
+[
+  {
+    "linkTo" : "section1",
+    "text"   : "首页"
+  },
+  {
+    "linkTo" : "section2",
+    "text"   : "幸福黄金"
+  },
+  {
+    "linkTo" : "section3",
+    "text"   : "适用人群"
+  },
+  {
+    "linkTo" : "section4",
+    "text"   : "效果&案例"
+  },
+  {
+    "linkTo" : "section5",
+    "text"   : "男性保养"
+  },
+  {
+    "linkTo" : "section6",
+    "text"   : "女性保养"
+  },
+  {
+    "linkTo" : "section7",
+    "text"   : "肾虚自测"
+  },
+  {
+    "linkTo" : "section8",
+    "text"   : "在线咨询"
+  },
+  {
+    "linkTo" : "section9",
+    "text"   : "联系我们"
+  }
+]
