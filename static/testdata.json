@@ -1,0 +1,206 @@
+{
+  "slides" : [
+    {
+    "title":"人工智能将取代人类",
+    "url" : "/",
+    "img":"http://oz3n01eow.bkt.clouddn.com/i1.jpg"
+    },
+    {
+    "title":"IT行业的春天来了",
+    "img":"http://oz3n01eow.bkt.clouddn.com/i2.jpg"
+    },
+    {
+    "title":"Google宣布收购苹果",
+    "img":"static/banners/s1.jpg"
+    }
+  ],
+  "personList" : [
+    {
+      "name" : "张成浩",
+      "time" : "2018-12-12",
+      "avatar": "http://oz3n01eow.bkt.clouddn.com/a1.jpeg"
+    },
+    {
+      "name" : "张晓华",
+      "time" : "2018-12-12",
+      "avatar": "http://oz3n01eow.bkt.clouddn.com/a2.jpeg"
+    },
+    {
+      "name" : "小小不点",
+      "time" : "2018-12-12",
+      "avatar": "http://oz3n01eow.bkt.clouddn.com/a3.jpeg"
+    },
+    {
+      "name" : "天泽东一",
+      "time" : "2017-05-12",
+      "avatar": "http://oz3n01eow.bkt.clouddn.com/a4.jpeg"
+    },
+    {
+      "name" : "追梦者",
+      "time" : "2018-12-12",
+      "avatar": "http://oz3n01eow.bkt.clouddn.com/a5.jpeg"
+    },
+    {
+      "name" : "==造物主==",
+      "time" : "2018-12-12",
+      "avatar": "http://oz3n01eow.bkt.clouddn.com/a6.jpeg"
+    },
+    {
+      "name" : "小小萝莉",
+      "time" : "2018-12-12",
+      "avatar": "http://oz3n01eow.bkt.clouddn.com/a7.png"
+    },
+    {
+      "name" : "张泽东",
+      "time" : "2018-12-12",
+      "avatar": "http://oz3n01eow.bkt.clouddn.com/a8.jpeg"
+    },
+    {
+      "name" : "李汉明",
+      "time" : "2018-12-12",
+      "avatar": "http://oz3n01eow.bkt.clouddn.com/a9.jpg"
+    },
+    {
+      "name" : "崔志勇",
+      "time" : "2018-12-12",
+      "avatar": "http://oz3n01eow.bkt.clouddn.com/a10.jpg"
+    },
+    {
+      "name" : "冬则温夏泽清",
+      "time" : "2018-12-12",
+      "avatar": "http://oz3n01eow.bkt.clouddn.com/a11.jpg"
+    },
+    {
+      "name" : "施泽浩一",
+      "time" : "2018-12-12",
+      "avatar": "http://oz3n01eow.bkt.clouddn.com/a12.jpg"
+    },
+    {
+      "name" : "李德华",
+      "time" : "2018-12-12",
+      "avatar": "http://oz3n01eow.bkt.clouddn.com/a13.jpg"
+    },
+    {
+      "name" : "郭泽友",
+      "time" : "2018-12-12",
+      "avatar": "http://oz3n01eow.bkt.clouddn.com/a14.jpg"
+    },
+    {
+      "name" : "青青和尚草",
+      "time" : "2018-12-12",
+      "avatar": "http://oz3n01eow.bkt.clouddn.com/a15.jpg"
+    }
+  ],
+  "List" : [
+    {
+      "imgSrc":"http://oz3n01eow.bkt.clouddn.com/t1.jpg",
+      "title" : "人工智能风口下这四个行业最积极",
+      "desc" : "人工智能风口下,这四个行业最积极,多家公司业绩增速超过100%",
+      "time": "2018-12-12",
+      "name": "张德涵",
+      "num1": 323,
+      "num2": 2435,
+      "num3": 89413,
+      "price" : 99.00
+    },
+    {
+      "imgSrc":"http://oz3n01eow.bkt.clouddn.com/t2.jpg",
+      "title" : "雄安新区牵手阿里巴巴用人工智能建造“未来之城”",
+      "desc" : "管委会与阿里巴巴集团在河北省石家庄市签署了战略合作协议,双方将携手打造以“云计算”为基础设施",
+      "time": "2018-11-21",
+      "name": "王德昌",
+      "num1": 543,
+      "num2": 3245,
+      "num3": 64213,
+      "price" : 99.00
+    },
+    {
+      "imgSrc":"http://oz3n01eow.bkt.clouddn.com/t3.jpg",
+      "title" : "人工智能会是国产手机超越苹果三星的机会吗?",
+      "desc" : "人工智能会是国产手机超越苹果三星的机会吗? 苹果iPhone X首次采用的Face ID生物",
+      "time": "2018-12-12",
+      "name": "醉意人生",
+      "num1": 323,
+      "num2": 2435,
+      "num3": 89413,
+      "price" : 88.90
+    },
+    {
+      "imgSrc":"http://oz3n01eow.bkt.clouddn.com/t4.jpg",
+      "title" : "英特尔CEO:人工智能处于起步阶段 现在讨论监管为时过早",
+      "desc" : "英特尔首席执行官布莱恩·科兹安尼克在接受CNBC采访时表示,目前人工智能正处于初级阶段,现在讨论对其进行监管还为时尚早",
+      "time": "2018-12-16",
+      "name": "漫威宇宙",
+      "num1": 644,
+      "num2": 2164,
+      "num3": 53243,
+      "price" : 198.00
+    },
+    {
+      "imgSrc":"http://oz3n01eow.bkt.clouddn.com/t5.jpg",
+      "title" : "人工智能助力新金融 金信网抢占金融科技风口",
+      "desc" : "近日,“JDD-2017京东金融全球数据探索者大会”在北京举行,全球顶级技术专家和金融行业领袖",
+      "time": "2017-08-28",
+      "name": "康有为",
+      "num1": 75,
+      "num2": 343,
+      "num3": 1274,
+      "price" : 49.00
+    },
+    {
+      "imgSrc":"http://oz3n01eow.bkt.clouddn.com/t6.jpg",
+      "title" : "坚持技术创新长虹人工智能电视引领超强体验",
+      "desc" : "从发展政策来看,人工智能电视有很好的前景。在7月国务院印发的《新一代人工智能发展规划》",
+      "time": "2018-12-12",
+      "name": "梁启超",
+      "num1": 323,
+      "num2": 2435,
+      "num3": 89413,
+      "price" : 99.00
+    },
+    {
+      "imgSrc":"http://oz3n01eow.bkt.clouddn.com/t7.jpg",
+      "title" : "人工智能成彩电业主方向 长虹等生产商砥砺前行",
+      "desc" : "最近10年来,随着互联网的不断渗透,电视研发、生产技术的持续提升,以及电视内容运营商的转型和整合",
+      "time": "2017-12-21",
+      "name": "胡泽平",
+      "num1": 153,
+      "num2": 1853,
+      "num3": 3325,
+      "price" : 88.99
+    },
+    {
+      "imgSrc":"http://oz3n01eow.bkt.clouddn.com/t8.jpg",
+      "title" : "高通盛融视点:人工智能“入侵”,你可能会被淘汰吗?",
+      "desc" : "阿尔法狗大战李世石,索菲亚被授予公民身份…人类不得不正视人工智能所衍生出来的社会问题",
+      "time": "2017-12-30",
+      "name": "方世玉",
+      "num1": 323,
+      "num2": 2435,
+      "num3": 89413,
+      "price" : 999.00
+    },
+    {
+      "imgSrc":"http://oz3n01eow.bkt.clouddn.com/t9.jpg",
+      "title" : "李开复助理VS机器落败?互联网金融趋于人工智能化",
+      "desc" : "创新工场创始人兼CEO、人工智能工程院院长李开复博士作为特邀嘉宾,在纽约哥伦比亚大学工程学院",
+      "time": "2018-12-12",
+      "name": "张德涵",
+      "num1": 323,
+      "num2": 2435,
+      "num3": 89413,
+      "price" : 199.00
+    },
+    {
+      "imgSrc":"http://oz3n01eow.bkt.clouddn.com/t10.jpg",
+      "title" : "谷歌工程总监:人工智能不会取代人类",
+      "desc" : "在所有关于人工智能(AI)如何威胁到社会危害的讨论中,一些专家认为人工智能从接管人类的工作开始",
+      "time": "2018-12-12",
+      "name": "佚名",
+      "num1": 847,
+      "num2": 1093,
+      "num3": 11038,
+      "price" : 129.00
+    }
+  ]
+}
