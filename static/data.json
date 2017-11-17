@@ -1,72 +1,267 @@
 {
-  
+  "videoList":[
+      {
+          "imgSrc": "http://lorempixel.com/100/100/food/1",
+          "title": "中级韩国语第八课-银行，邮局",
+          "count":189,
+          "teacher": "李德华"
+      },
+      {
+          "imgSrc": "http://lorempixel.com/100/100/food/2",
+          "title": "韩通韩语|TOPIK中级听力真题解析",
+          "count": 432,
+          "teacher": "赵学友"
+      },
+      {
+          "imgSrc": "http://lorempixel.com/100/100/food/3",
+          "title": "TOPIK-32届高级听力详解12-15",
+          "count": 5453,
+          "teacher": "韩富城"
+      },
+      {
+          "imgSrc": "http://lorempixel.com/100/100/food/4",
+          "title": "口语-카페에서 일하는 것",
+          "count": 3432,
+          "teacher": "周公瑾"
+      },
+      {
+          "imgSrc": "http://lorempixel.com/100/100/food/5",
+          "title": "TOPIK | 32届高级听力详解16-19",
+          "count": 1353,
+          "teacher": "诸葛亮"
+      },
+      {
+          "imgSrc": "http://lorempixel.com/100/100/food/6",
+          "title": "语法 | 中级语法-topik考试常用语法词",
+          "count": 323,
+          "teacher": "严老师"
+      },
+      {
+          "imgSrc": "http://lorempixel.com/100/100/food/7",
+          "title": "语法 | 中级语法-topik考试常用语法词",
+          "count": 2342,
+          "teacher": "李老师"
+      },
+      {
+          "imgSrc": "http://lorempixel.com/100/100/food/8",
+          "title": "高丽韩语| 十一韩国有哪些好玩的地方？",
+          "count": 6542,
+          "teacher": "赵老师"
+      },
+      {
+          "imgSrc": "http://lorempixel.com/100/100/food/1",
+          "title": "中级韩国语第八课-银行，邮局",
+          "count":189,
+          "teacher": "李德华"
+      },
+      {
+          "imgSrc": "http://lorempixel.com/100/100/food/2",
+          "title": "韩通韩语|TOPIK中级听力真题解析",
+          "count": 432,
+          "teacher": "赵学友"
+      },
+      {
+          "imgSrc": "http://lorempixel.com/100/100/food/3",
+          "title": "TOPIK-32届高级听力详解12-15",
+          "count": 5453,
+          "teacher": "韩富城"
+      },
+      {
+          "imgSrc": "http://lorempixel.com/100/100/food/4",
+          "title": "口语-카페에서 일하는 것",
+          "count": 3432,
+          "teacher": "周公瑾"
+      },
+      {
+          "imgSrc": "http://lorempixel.com/100/100/food/5",
+          "title": "TOPIK | 32届高级听力详解16-19",
+          "count": 1353,
+          "teacher": "诸葛亮"
+      },
+      {
+          "imgSrc": "http://lorempixel.com/100/100/food/6",
+          "title": "语法 | 中级语法-topik考试常用语法词",
+          "count": 323,
+          "teacher": "严老师"
+      },
+      {
+          "imgSrc": "http://lorempixel.com/100/100/food/7",
+          "title": "语法 | 中级语法-topik考试常用语法词",
+          "count": 2342,
+          "teacher": "李老师"
+      },
+      {
+          "imgSrc": "http://lorempixel.com/100/100/food/8",
+          "title": "高丽韩语| 十一韩国有哪些好玩的地方？",
+          "count": 6542,
+          "teacher": "赵老师"
+      }
+  ],
+  "chats":[
+    {
+      "self": false,
+      "content": "你好，我是大帅，有什么需要帮助的吗？"
+    },{
+      "self": true,
+      "content": "你好，很高兴见到你"
+    },{
+      "self": false,
+      "content": "我们这里有效果非常好的减肥产品，不知道你是否感兴趣呢？"
+    },{
+      "self": true,
+      "audio": ["static/audio/p1.mp3"]
+    },{
+      "self": false,
+      "audio": ["static/audio/p2.mp3"]
+    },{
+      "self": true,
+      "content": "再见，兄弟"
+    },{
+      "self": true,
+      "content": "你好，很高兴见到你"
+    },{
+      "self": false,
+      "content": "我们这里有效果非常好的减肥产品，不知道你是否感兴趣呢？"
+    },{
+      "self": true,
+      "content": "不好意思，没兴趣..."
+    },{
+      "self": false,
+      "content": "好吧，再见"
+    },{
+      "self": true,
+      "content": "再见，兄弟"
+    }
+  ],
+  "lessons":[
+      {
+        "thum": "static/img/thum.png",
+        "avatar":"static/img/a3.jpg",
+        "name":"【官方】韩语初级班",
+        "teacher": "豆芽老师",
+        "label": "LIVE"
+      },
+      {
+        "thum": "static/img/thum.png",
+        "avatar":"static/img/a2.jpg",
+        "name":"Hannah外教每天口语话题课堂",
+        "teacher": "铁杆英语",
+        "label": "回顾"
+      },
+      {
+        "thum": "static/img/thum.png",
+        "avatar":"static/img/a1.jpg",
+        "name":"兴趣|新世界日语：味噌汤就是这样诞生了",
+        "teacher": "新世界球球",
+        "label": "预告"
+      },
+      {
+        "thum": "static/img/thum.png",
+        "avatar":"static/img/a4.jpg",
+        "name":"考研英语阅读写作导学公开课",
+        "teacher": "森原扬子",
+        "label": "预告"
+      },
+      {
+        "thum": "static/img/thum.png",
+        "avatar":"static/img/a3.jpg",
+        "name":"【留学趴】托福口语一小时速成知道",
+        "teacher": "小孟",
+        "label": "LIVE"
+      },
+      {
+        "thum": "static/img/thum.png",
+        "avatar":"static/img/a5.jpg",
+        "name":"【留学趴】1小时轻松搞定GRE单词方法论",
+        "teacher": "豆芽老师",
+        "label": "回顾"
+      },
+      {
+        "thum": "static/img/thum.png",
+        "avatar":"static/img/a1.jpg",
+        "name":"十年心理咨询专家，恋爱心理问题现场咨询",
+        "teacher": "培训师赵军",
+        "label": "LIVE"
+      }
+  ],
+  "menuList": [
+    {
+      "title" : "语言中心",
+      "links" : ["英语","日语","韩语","小语种"]
+    },{
+      "title" : "职业教育",
+      "links" : ["考研","公务员","职业考证","办公软件"]
+    },{
+      "title" : "文化艺术",
+      "links" : ["音乐欣赏","艺术创意","生活兴趣","人文科学"]
+    },{
+      "title" : "中小幼",
+      "links" : ["亲子育儿","小学","中学","教师培训"]
+    },{
+      "title" : "互联网技术",
+      "links" : ["iOS开发","网站开发","微信开发","Android开发"]
+    }
+  ],
   "goodsList":[
     {
-      "imgSrc" : "static/thum/p1.jpg",
-      "label"    : "Automobile"
+      "imgSrc" : "http://szimg.mukewang.com/5943c2cb0001594605400300-360-202.jpg",
+      "title"  : "SSM到Spring Boot-从零开发校园商铺平台",
+      "num"    : 231,
+      "star"   : 4,
+      "price"  : 984,
+      "teather": "安妮兔",
+      "islive" : true
     },{
-      "imgSrc" : "static/thum/p2.jpg",
-      "label"    : "House"
+      "imgSrc" : "http://szimg.mukewang.com/5909a1250001197e05400300-360-202.jpg",
+      "title"  : "Android通用框架设计与完整电商APP开发",
+      "num"    : 424,
+      "star"   : 4,
+      "price"  : 65.9,
+      "teather": "志邦教育"
     },{
-      "imgSrc" : "static/thum/p3.jpg",
-      "label"    : "Business super"
+      "imgSrc" : "http://szimg.mukewang.com/59c9b245000143ae05400300-360-202.jpg",
+      "title"  : "录播-一句英文名言，一段人生谈心",
+      "num"    : 643,
+      "star"   : 4,
+      "price"  : 99.9,
+      "teather": "蓝蘑菇",
+      "islive" : true
+    },{
+      "imgSrc" : "http://img4.mukewang.com/59b77bac0001985906000338-240-135.jpg",
+      "title"  : "引导开口说英文 | 情景对话学习",
+      "num"    : 1343,
+      "star"   : 4,
+      "price"  : 984,
+      "teather": "童学馆"
+    },{
+      "imgSrc" : "http://szimg.mukewang.com/59acb2040001bc2905400300-360-202.jpg",
+      "title"  : "安妮兎带你玩转地道表达",
+      "num"    : 532,
+      "star"   : 4,
+      "price"  : 984,
+      "teather": "国中教育",
+      "islive" : true
+    },{
+      "imgSrc" : "http://img1.mukewang.com/59bfab740001369a06000338-240-135.jpg",
+      "title"  : "专业课程四|教师口语传播策略-张洁",
+      "num"    : 14345,
+      "star"   : 4,
+      "price"  : 323,
+      "teather": "赤子学堂"
+    },{
+      "imgSrc" : "http://szimg.mukewang.com/5959a60f0001cfd305400300-360-202.jpg",
+      "title"  : "口语|想过另外一种生活？口语老师教你玩穿越",
+      "num"    : 753,
+      "star"   : 4,
+      "price"  : 645,
+      "teather": "安妮兔"
+    },{
+      "imgSrc" : "http://szimg.mukewang.com/5943c2cb0001594605400300-360-202.jpg",
+      "title"  : "师德|我们需要什么样的农村教育-杨东平",
+      "num"    : 443,
+      "star"   : 4,
+      "price"  : 984,
+      "teather": "安妮兔"
     }
-  ],
-  "Lifes":[
-    {
-      "imgSrc" : "static/thum/service_1.png",
-      "title"  : "送蛋糕"
-    },{
-      "imgSrc" : "static/thum/service_2.png",
-      "title"  : "送鲜花"
-    },{
-      "imgSrc" : "static/thum/service_3.png",
-      "title"  : "买美食"
-    },{
-      "imgSrc" : "static/thum/service_4.jpg",
-      "title"  : "找月嫂"
-    },{
-      "imgSrc" : "static/thum/service_5.png",
-      "title"  : "修电脑"
-    },{
-      "imgSrc" : "static/thum/service_6.png",
-      "title"  : "修手机"
-    },{
-      "imgSrc" : "static/thum/service_7.png",
-      "title"  : "修管道"
-    },{
-      "imgSrc" : "static/thum/service_8.png",
-      "title"  : "修马桶"
-    }
-  ],
-  "slides": [
-      { "title": "Banner1", "imgSrc": "static/slides/s1.jpg" },
-      { "title": "Banner2", "imgSrc": "static/slides/s2.jpg" },
-      { "title": "Banner3", "imgSrc": "static/slides/s3.jpg" },
-      { "title": "Banner3", "imgSrc": "static/slides/s4.jpg" }
-  ],
-  "aboutUs":[
-    {
-      "imgSrc"  : "static/thum/u1.jpg",
-      "title" : "企业简介",
-      "label" : "summary",
-      "centent" : "  云创车易购是有陕西云创网络汽车销售服务有限公司精心打造的“互联网 + 实体”的C2F创新性网络汽车销售系统，是以“汽车销售、车辆商户、二手车买卖”等生活交易服务为一体的优质生活服务平台"
-    },
-    {
-      "imgSrc"  : "static/thum/u2.jpg",
-      "title" : "四大优势",
-      "label" : "advantage",
-      "centent" : "  超级平台：强大的在线会员服务保障体系 <br/> 惊喜钜惠：海量资源共享会员尊享巨额优惠 <br/> 无所不能  一站式生活服务享你所想 <br> 量身定制：对VIP客户提供一对一专属服务资源共享" 
-    },
-    {
-      "imgSrc"  : "static/thum/u3.jpg",
-      "title" : "公司地址",
-      "label" : "address",
-      "centent" : "公司地址：西安市未央区未央路凤城九路海博广场C座2层204室"
-    }
-  ],
-  "contact" : {
-    "tel1" : "400-689-6686",
-    "tel2" : "029-89293988"
-  }
+  ]
 }
