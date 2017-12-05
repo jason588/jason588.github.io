@@ -1,0 +1,72 @@
+{
+  
+  "goodsList":[
+    {
+      "imgSrc" : "static/thum/p1.jpg",
+      "label"    : "Automobile"
+    },{
+      "imgSrc" : "static/thum/p2.jpg",
+      "label"    : "House"
+    },{
+      "imgSrc" : "static/thum/p3.jpg",
+      "label"    : "Business super"
+    }
+  ],
+  "Lifes":[
+    {
+      "imgSrc" : "static/thum/service_1.png",
+      "title"  : "送蛋糕"
+    },{
+      "imgSrc" : "static/thum/service_2.png",
+      "title"  : "送鲜花"
+    },{
+      "imgSrc" : "static/thum/service_3.png",
+      "title"  : "买美食"
+    },{
+      "imgSrc" : "static/thum/service_4.jpg",
+      "title"  : "找月嫂"
+    },{
+      "imgSrc" : "static/thum/service_5.png",
+      "title"  : "修电脑"
+    },{
+      "imgSrc" : "static/thum/service_6.png",
+      "title"  : "修手机"
+    },{
+      "imgSrc" : "static/thum/service_7.png",
+      "title"  : "修管道"
+    },{
+      "imgSrc" : "static/thum/service_8.png",
+      "title"  : "修马桶"
+    }
+  ],
+  "slides": [
+      { "title": "Banner1", "imgSrc": "static/slides/s1.jpg" },
+      { "title": "Banner2", "imgSrc": "static/slides/s2.jpg" },
+      { "title": "Banner3", "imgSrc": "static/slides/s3.jpg" },
+      { "title": "Banner3", "imgSrc": "static/slides/s4.jpg" }
+  ],
+  "aboutUs":[
+    {
+      "imgSrc"  : "static/thum/u1.jpg",
+      "title" : "企业简介",
+      "label" : "summary",
+      "centent" : "  云创车易购是有陕西云创网络汽车销售服务有限公司精心打造的“互联网 + 实体”的C2F创新性网络汽车销售系统，是以“汽车销售、车辆商户、二手车买卖”等生活交易服务为一体的优质生活服务平台"
+    },
+    {
+      "imgSrc"  : "static/thum/u2.jpg",
+      "title" : "四大优势",
+      "label" : "advantage",
+      "centent" : "  超级平台：强大的在线会员服务保障体系 <br/> 惊喜钜惠：海量资源共享会员尊享巨额优惠 <br/> 无所不能  一站式生活服务享你所想 <br> 量身定制：对VIP客户提供一对一专属服务资源共享" 
+    },
+    {
+      "imgSrc"  : "static/thum/u3.jpg",
+      "title" : "公司地址",
+      "label" : "address",
+      "centent" : "公司地址：西安市未央区未央路凤城九路海博广场C座2层204室"
+    }
+  ],
+  "contact" : {
+    "tel1" : "400-689-6686",
+    "tel2" : "029-89293988"
+  }
+}
