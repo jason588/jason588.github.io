@@ -40,10 +40,13 @@
     }
   ],
   "slides": [
-      { "title": "Banner1", "imgSrc": "static/slides/s1.jpg" },
-      { "title": "Banner2", "imgSrc": "static/slides/s2.jpg" },
-      { "title": "Banner3", "imgSrc": "static/slides/s3.jpg" },
-      { "title": "Banner3", "imgSrc": "static/slides/s4.jpg" }
+      { "title": "Banner1", "imgSrc": "http://p0hdcjcun.bkt.clouddn.com/car-01.jpg" },
+      { "title": "Banner2", "imgSrc": "http://p0hdcjcun.bkt.clouddn.com/car-02.jpg" },
+      { "title": "Banner3", "imgSrc": "http://p0hdcjcun.bkt.clouddn.com/car-03.jpg" },
+      { "title": "Banner4", "imgSrc": "http://p0hdcjcun.bkt.clouddn.com/car-04.jpg" },
+      { "title": "Banner5", "imgSrc": "http://p0hdcjcun.bkt.clouddn.com/car-05.jpg" },
+      { "title": "Banner6", "imgSrc": "http://p0hdcjcun.bkt.clouddn.com/car-06.jpg" },
+      { "title": "Banner7", "imgSrc": "http://p0hdcjcun.bkt.clouddn.com/car-07.jpg" }
   ],
   "aboutUs":[
     {
