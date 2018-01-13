@@ -76,7 +76,7 @@ window._CCSettings = {
             "f7Y1Mih/RNOpUGfLoWzT8m"
         ]
     },
-    orientation: "portrait",
+    orientation: "",
     debug: true,
     "md5AssetsMap": {
         "04/04b7758a8.json": "afbfe",
