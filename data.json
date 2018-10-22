@@ -18,81 +18,56 @@
     "CoverImage":"http://oz3n01eow.bkt.clouddn.com/t10.jpg"
     }
   ],
-  "personList" : [
+  "thumbs": [
     {
-      "NickName" : "张成浩",
-      "CreateTime" : "2018-12-12",
-      "Avatar": "http://oz3n01eow.bkt.clouddn.com/a1.jpeg"
+      "id": "001",
+      "src": "http://p7d5f2i6f.bkt.clouddn.com/1.jpg",
+      "title": "可爱的蘑菇静静地窜出地面"
     },
     {
-      "NickName" : "张晓华",
-      "CreateTime" : "2018-12-12",
-      "Avatar": "http://oz3n01eow.bkt.clouddn.com/a2.jpeg"
+      "id": "002",
+      "src": "http://p7d5f2i6f.bkt.clouddn.com/2.jpg",
+      "title": "长官你好，我是1818好警务处一等兵"
     },
     {
-      "NickName" : "小小不点",
-      "CreateTime" : "2018-12-12",
-      "Avatar": "http://oz3n01eow.bkt.clouddn.com/a3.jpeg"
+      "id": "003",
+      "src": "http://p7d5f2i6f.bkt.clouddn.com/3.jpg",
+      "title": "看到这个突然觉得肚子咕咕作响，口水流下来了"
     },
     {
-      "NickName" : "天泽东一",
-      "CreateTime" : "2017-05-12",
-      "Avatar": "http://oz3n01eow.bkt.clouddn.com/a4.jpeg"
+      "id": "004",
+      "src": "http://p7d5f2i6f.bkt.clouddn.com/4.jpg",
+      "title": "多么希望能去这个地方玩玩这个拍摄角度不错"
     },
     {
-      "NickName" : "追梦者",
-      "CreateTime" : "2018-12-12",
-      "Avatar": "http://oz3n01eow.bkt.clouddn.com/a5.jpeg"
+      "id": "005",
+      "src": "http://p7d5f2i6f.bkt.clouddn.com/5.jpg",
+      "title": "不知道这是什么玩意不过看起来挺好吃"
     },
     {
-      "NickName" : "==造物主==",
-      "CreateTime" : "2018-12-12",
-      "Avatar": "http://oz3n01eow.bkt.clouddn.com/a6.jpeg"
+      "id": "006",
+      "src": "http://p7d5f2i6f.bkt.clouddn.com/6.jpg",
+      "title": "这是什么地方我也想去玩玩"
     },
     {
-      "NickName" : "小小萝莉",
-      "CreateTime" : "2018-12-12",
-      "Avatar": "http://oz3n01eow.bkt.clouddn.com/a7.png"
+      "id": "007",
+      "src": "http://p7d5f2i6f.bkt.clouddn.com/7.jpg",
+      "title": "风中起舞的女孩这个画风不错"
     },
     {
-      "NickName" : "张泽东",
-      "CreateTime" : "2018-12-12",
-      "Avatar": "http://oz3n01eow.bkt.clouddn.com/a8.jpeg"
+      "id": "008",
+      "src": "http://p7d5f2i6f.bkt.clouddn.com/8.jpg",
+      "title": "这个咖啡看起来挺别致的不错不错来一杯"
     },
     {
-      "NickName" : "李汉明",
-      "CreateTime" : "2018-12-12",
-      "Avatar": "http://oz3n01eow.bkt.clouddn.com/a9.jpg"
+      "id": "009",
+      "src": "http://p7d5f2i6f.bkt.clouddn.com/9.jpg",
+      "title": "两个萌娃太可爱了，走叔叔带你去玩"
     },
     {
-      "NickName" : "崔志勇",
-      "CreateTime" : "2018-12-12",
-      "Avatar": "http://oz3n01eow.bkt.clouddn.com/a10.jpg"
-    },
-    {
-      "NickName" : "冬则温夏泽清",
-      "CreateTime" : "2018-12-12",
-      "Avatar": "http://oz3n01eow.bkt.clouddn.com/a11.jpg"
-    },
-    {
-      "NickName" : "施泽浩一",
-      "CreateTime" : "2018-12-12",
-      "Avatar": "http://oz3n01eow.bkt.clouddn.com/a12.jpg"
-    },
-    {
-      "NickName" : "李德华",
-      "CreateTime" : "2018-12-12",
-      "Avatar": "http://oz3n01eow.bkt.clouddn.com/a13.jpg"
-    },
-    {
-      "NickName" : "郭泽友",
-      "CreateTime" : "2018-12-12",
-      "Avatar": "http://oz3n01eow.bkt.clouddn.com/a14.jpg"
-    },
-    {
-      "NickName" : "青青和尚草",
-      "CreateTime" : "2018-12-12",
-      "Avatar": "http://oz3n01eow.bkt.clouddn.com/a15.jpg"
+      "id": "010",
+      "src": "http://p7d5f2i6f.bkt.clouddn.com/10.jpg",
+      "title": "深夜路边摄影写真，这么冷的天坐地上不冷吗？"
     }
   ],
   "List" : [
