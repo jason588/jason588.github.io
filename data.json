@@ -1,23 +1,5 @@
 {
-  "slides" : [
-    {
-    "Title":"人工智能将取代人类",
-    "LinkUrl" : "/",
-    "CoverImage":"http://oz3n01eow.bkt.clouddn.com/i1.jpg"
-    },
-    {
-    "Title":"IT行业的春天来了",
-    "CoverImage":"http://oz3n01eow.bkt.clouddn.com/i2.jpg"
-    },
-    {
-    "Title":"Google宣布收购苹果",
-    "CoverImage":"http://oz3n01eow.bkt.clouddn.com/t7.jpg"
-    },
-    {
-    "Title":"Google宣布收购苹果",
-    "CoverImage":"http://oz3n01eow.bkt.clouddn.com/t10.jpg"
-    }
-  ],
+  
   "thumbs": [
     {
       "id": "001",
