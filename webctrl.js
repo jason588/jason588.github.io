@@ -40,10 +40,9 @@ function insertDom(videoDom){
 insertDom('.m-video-player-wrap');
 
 $(".video-masker").on('click',function(){
-    alert("去播放页免费看视频")
-    playUrl = document.location.href
-
-    window.location.href = lineUrl + playUrl
+    alert("去播放页免费看视频");
+    playUrl = document.location.href;
+    window.location.href = lineUrl + playUrl;
 })
 
 /***
