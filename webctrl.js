@@ -1,7 +1,33 @@
+
+function insertDom(videoDom){
+    $(videoDom).append("<a href='http://baidu.com' class='video-masker'><span>VIP点击免费观看</span></a>");
+    $(".video-masker").attr("target", "_self");
+    $(".video-masker").css({
+        'color': '#fff',
+        'position': 'absolute',
+        'left': 0,
+        'right': 0,
+        'top': 0,
+        'bottom': 0,
+        'background': '#111',
+        'z-index':'999'
+    });
+    $(".video-masker > span").css({
+        'position': 'absolute',
+        'left': '50%' ,
+        'top': '50%' ,
+        'width': '100%' ,
+        'text-align': 'center',
+        'transform': 'translate(-50% , -50%)',
+        'font-size': '18px'
+    });
+    $('a').attr("target","_self");
+};
+insertDom('.m-video-player-wrap');
+/***
 var iqiyi = document.getElementsByClassName("m-video-player-wrap")[0];
 var atag = document.getElementsByTagName('a');
 iqiyi.style = "position: relative";
-
 var playDom = document.createElement("a");
 var playDomInner = document.createElement("span");
 playDomInner.innerText = "VIP点击免费观看";
@@ -20,5 +46,5 @@ playDom.addEventListener("click", function () {
     playDom.style.color = "red"
 });
 
-
+***/
 
