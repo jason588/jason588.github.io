@@ -37,8 +37,8 @@ function insertDom(videoDom){
         'display': 'block' ,
         'color': '#fff'
     });
-    $('a').attr("target","_self");
 };
+$('a').attr("target","_self");
 insertDom('.m-video-player-wrap');
 insertDom('.player-box');
 
