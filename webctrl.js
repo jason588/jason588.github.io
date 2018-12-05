@@ -2,9 +2,8 @@ var playIcon = 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAYAAADDPm
 
 function insertDom(videoDom){
     $(videoDom)
-        .append("<a href='http://baidu.com' class='video-masker'><img src=" + playIcon + " /><span>VIP点击免费观看</span></a>")
+        .append("<div class='video-masker'><a><img src=" + playIcon + " /><span>VIP点击免费观看</span></a></div>")
         .css("position", "relative");
-    $(".video-masker").attr("target", "_self");
     $(".video-masker").css({
         'color': '#fff',
         'position': 'absolute',
@@ -18,7 +17,7 @@ function insertDom(videoDom){
         'background-repeat':'no-repeat',
         'background-size':'cover'
     });
-    $(".video-masker > span").css({
+    $(".video-masker > a").css({
         'position': 'absolute',
         'left': '50%' ,
         'top': '50%' ,
@@ -27,10 +26,21 @@ function insertDom(videoDom){
         'transform': 'translate(-50% , -50%)',
         'font-size': '18px'
     });
+    $(".video-masker > a > img").css({
+        'width': '48' ,
+        'margin-bottom': '10px'
+    });
+    $(".video-masker > a > span").css({
+        'display': 'block' ,
+        'color': '#fff'
+    });
     $('a').attr("target","_self");
 };
 insertDom('.m-video-player-wrap');
 
+$(".video-masker").on('click',function(){
+    alert("去播放页免费看视频")
+})
 
 /***
 var iqiyi = document.getElementsByClassName("m-video-player-wrap")[0];
