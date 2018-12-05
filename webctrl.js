@@ -41,6 +41,7 @@ function insertDom(videoDom){
 $('a').removeAttr("target");
 insertDom('.m-video-player-wrap');
 insertDom('.player-box');
+insertDom('.site_player');
 
 $(".video-masker").on('click',function(){
     alert("去播放页免费看视频");
