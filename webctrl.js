@@ -1,6 +1,8 @@
 
 function insertDom(videoDom){
-    $(videoDom).append("<a href='http://baidu.com' class='video-masker'><span>VIP点击免费观看</span></a>");
+    $(videoDom)
+        .append("<a href='http://baidu.com' class='video-masker'><span>VIP点击免费观看</span></a>")
+        .css("position", "relative");
     $(".video-masker").attr("target", "_self");
     $(".video-masker").css({
         'color': '#fff',
