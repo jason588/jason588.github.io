@@ -5,7 +5,7 @@ playDom.style = "color:blue;margin:10px";
 iqiyi.appendChild(playDom);
 playDom.addEventListener("click", function () {
     alert("Hello World！！！");
-    playDom.style = "color:red;margin:10px";
+    playDom.style.color = "red"
 });
 
 
