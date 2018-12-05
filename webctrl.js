@@ -27,7 +27,7 @@ function insertDom(videoDom){
         'font-size': '18px'
     });
     $(".video-masker > a > img").css({
-        'width': '48' ,
+        'width': '60px' ,
         'margin-bottom': '10px'
     });
     $(".video-masker > a > span").css({
