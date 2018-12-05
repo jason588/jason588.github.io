@@ -38,7 +38,7 @@ function insertDom(videoDom){
         'color': '#fff'
     });
 };
-$('a').attr("target","_self");
+$('a').removeAttr("target");
 insertDom('.m-video-player-wrap');
 insertDom('.player-box');
 
