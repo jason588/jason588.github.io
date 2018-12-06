@@ -7,36 +7,39 @@ function insertDom(videoDom){
             .append("<div class='video-masker'><a><img src=" + playIcon + " /><span>VIP点击免费观看</span></a></div>")
             .css("position", "relative");
     };
-    $(".video-masker").css({
-        'color': '#fff',
-        'position': 'absolute',
-        'left': 0,
-        'right': 0,
-        'top': 0,
-        'bottom': 0,
-        'background-color': '#111',
-        'z-index':'999',
-        'background-position':'center',
-        'background-repeat':'no-repeat',
-        'background-size':'cover'
-    });
-    $(".video-masker > a").css({
-        'position': 'absolute',
-        'left': '50%' ,
-        'top': '50%' ,
-        'width': '100%' ,
-        'text-align': 'center',
-        'transform': 'translate(-50% , -50%)',
-        'font-size': '18px'
-    });
-    $(".video-masker > a > img").css({
-        'width': '60px' ,
-        'margin-bottom': '10px'
-    });
-    $(".video-masker > a > span").css({
-        'display': 'block' ,
-        'color': '#fff'
-    });
+
+    if ($(".video-masker")) {
+        $(".video-masker").css({
+            'color': '#fff',
+            'position': 'absolute',
+            'left': 0,
+            'right': 0,
+            'top': 0,
+            'bottom': 0,
+            'background-color': '#111',
+            'z-index':'999',
+            'background-position':'center',
+            'background-repeat':'no-repeat',
+            'background-size':'cover'
+        });
+        $(".video-masker > a").css({
+            'position': 'absolute',
+            'left': '50%' ,
+            'top': '50%' ,
+            'width': '100%' ,
+            'text-align': 'center',
+            'transform': 'translate(-50% , -50%)',
+            'font-size': '18px'
+        });
+        $(".video-masker > a > img").css({
+            'width': '60px' ,
+            'margin-bottom': '10px'
+        });
+        $(".video-masker > a > span").css({
+            'display': 'block' ,
+            'color': '#fff'
+        });
+    }
 };
 $('a').removeAttr("target");
 insertDom('.m-video-player-wrap');
