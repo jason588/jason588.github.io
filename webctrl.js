@@ -34,7 +34,7 @@ $(function(){
             });
             $(".video-masker > a > img").css({
                 'width': '60px' ,
-                'margin-bottom': '10px'
+                'margin': '0 auto 10px'
             });
             $(".video-masker > a > span").css({
                 'display': 'block' ,
